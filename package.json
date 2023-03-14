@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "node server starter kit",
   "main": "server.js",
-  "type": "module",
   "dependencies": {
     "nodemon": "^2.0.16"
   },
